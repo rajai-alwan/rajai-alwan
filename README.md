@@ -1,103 +1,479 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+# 👋 Hello, I'm **Rajai Alwan**
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+### 💻 Data Management Officer · Web Developer · Software Engineering Student
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<p>
+  <a href="https://github.com/rajai-alwan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/rajai-alwan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rajai.kh12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-</details>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Building+Real-World+Software+Solutions;PHP+%7C+Laravel+%7C+JavaScript+%7C+MySQL;Data+Management+%7C+Business+Intelligence;Humanitarian+Technology+%7C+Digital+Systems" alt="Typing SVG">
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rajai-alwan&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views">
+
 </div>
 
-<hr></hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+## 👨‍💻 About Me
 
-```dart
-// tools_I_use organized
+<img align="right" width="300" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" alt="Developer">
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+I'm a **Data Management Officer, Web Developer and Computer Systems Engineering student** focused on developing practical digital solutions for real-world problems.
+
+My professional interests combine **software development, database management, data analysis and information systems**.
+
+### What I Do
+
+* 💻 Build web applications and management systems
+* 🗄️ Design and manage relational databases
+* 📊 Process, validate and analyze structured data
+* 📈 Create reports and dashboards
+* ⚙️ Automate business workflows
+* 🔐 Implement roles, permissions and data protection
+* 🌍 Develop technology for humanitarian and community-based applications
+
+<br clear="right">
+
+> **I don't just write code — I build systems that organize information, solve problems and create real-world value.**
+
+---
+
+# 🧩 Professional Profile
+
+| Area                       | Focus                                          |
+| -------------------------- | ---------------------------------------------- |
+| 💻 Software Development    | PHP · JavaScript · Laravel                     |
+| 🗄️ Database Engineering   | MySQL · SQL · Relational Design                |
+| 📊 Data Management         | Data Entry · Validation · Cleaning · Reporting |
+| 📈 Business Intelligence   | Power BI · Excel · Dashboards                  |
+| ⚙️ Information Systems     | Management & Operational Systems               |
+| 🌍 Humanitarian Technology | Beneficiary & Assistance Systems               |
+| 🎨 Frontend Development    | HTML5 · CSS3 · JavaScript                      |
+| 🔧 Development Tools       | Git · GitHub · VS Code · XAMPP                 |
+
+---
+
+# 🛠️ Technology Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+</p>
+
+### 🗄️ Database & Data
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🟢 ISNAD
+
+### Humanitarian Information Management System
+
+> A digital platform designed to manage families, individuals, shelter centers and humanitarian assistance.
+
+### Core Capabilities
+
+* 👨‍👩‍👧 Family & individual registration
+* 🏕️ Camp and shelter management
+* ❤️ Vulnerability and special-needs classification
+* 📦 Assistance management
+* 🔍 Duplicate assistance detection
+* 📱 QR-based distribution
+* 📊 Dashboards and statistics
+* 👥 Staff roles and permissions
+* 📝 Activity logging
+* 📄 PDF and Excel reporting
+* 💾 Backup and recovery
+* 🔎 Advanced search and filtering
+
+**Technology:** `PHP` `MySQL` `JavaScript` `HTML5` `CSS3` `XAMPP`
+
+---
+
+## 🏥 Smart Clinic Management System
+
+> A web-based management platform for organizing clinic operations and patient information.
+
+### Modules
+
+* 👨‍⚕️ Doctors management
+* 👤 Patients management
+* 📅 Appointment scheduling
+* 📋 Medical records
+* 💊 Prescription management
+* 📊 Reports and statistics
+* 🔐 User permissions
+* 📈 Management dashboard
+
+**Technology:** `PHP` `MySQL` `JavaScript` `HTML5` `CSS3`
+
+---
+
+## 👔 Al-Aneeq Fashion
+
+> A modern fashion e-commerce concept focused on premium visual design and responsive user experience.
+
+### Features
+
+* 🛍️ Product catalog
+* 🛒 Shopping cart
+* 🔎 Product search
+* 🏷️ Product categories
+* 📦 Order management
+* 👤 Customer management
+* 📱 Responsive interface
+* 🎨 Premium visual identity
+
+**Technology:** `HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
+
+---
+
+## 📦 Inventory Management System
+
+> A database-driven business management system for inventory, purchasing, sales and financial operations.
+
+### Modules
+
+* 📦 Product management
+* 🧾 Purchase management
+* 🛒 Sales management
+* 📊 Inventory tracking
+* 💳 Debt management
+* 👥 Employee management
+* 💰 Accounting
+* 📈 Business reports
+
+### System Structure
+
+```text
+                    DASHBOARD
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+     PRODUCTS       PURCHASES         SALES
+        │               │               │
+        └───────────────┼───────────────┘
+                        ▼
+                    INVENTORY
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+           DEBTS                REPORTS
+             │                     │
+             └──────────┬──────────┘
+                        ▼
+                    ANALYTICS
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+**Technology:** `PHP` `MySQL` `JavaScript` `Excel`
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+---
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+# 🏗️ Software Development Workflow
 
-</a>
+```text
+        💡 IDEA
+          │
+          ▼
+     🔎 ANALYSIS
+          │
+          ▼
+      📝 PLANNING
+          │
+          ▼
+       🎨 DESIGN
+          │
+          ▼
+    🏗️ ARCHITECTURE
+          │
+          ▼
+    💻 DEVELOPMENT
+          │
+          ▼
+       🧪 TESTING
+          │
+          ▼
+      🔐 SECURITY
+          │
+          ▼
+      🚀 DEPLOYMENT
+          │
+          ▼
+      📊 MONITORING
+          │
+          ▼
+     🔧 IMPROVEMENT
+          │
+          └──────────────► 💡
+```
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+---
 
-</details>
-  
-<hr></hr>
+# 📊 Data Management
 
-**Code Cycle**<br>
+My data-management experience focuses on transforming raw information into **structured, accurate and actionable data**.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+### Core Skills
 
+* 🗂️ Beneficiary database management
+* 📥 Data entry
+* 🧹 Data cleaning
+* 🔍 Data validation
+* ♻️ Duplicate detection
+* 📊 Data reporting
+* 📈 Dashboard development
+* 🧮 Advanced Excel
+* 🗄️ Database organization
+* 🔐 Access control
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+---
+
+# 🌍 Humanitarian Technology
+
+I'm particularly interested in the intersection between **software engineering and humanitarian operations**.
+
+### Digital Information Workflow
+
+```text
+Registration
+     ↓
+Data Validation
+     ↓
+Needs Assessment
+     ↓
+Assistance Planning
+     ↓
+Distribution
+     ↓
+Monitoring
+     ↓
+Reporting
+     ↓
+Decision Making
+```
+
+> **Better Data → Better Decisions → Better Services**
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Computer Systems Engineering
+
+**Al-Azhar University — Palestine**
+
+Currently pursuing a Bachelor's degree in Computer Systems Engineering.
+
+### 💻 Diploma in Database Programming
+
+**Al-Azhar College of Intermediate Studies**
+
+**Graduated:** 2023
+
+---
+
+# 💼 Professional Experience
+
+### 📊 Data Management Officer
+
+**Al-Hassan Association**
+
+`2025 — 2026`
+
+* Beneficiary database management
+* Data entry and validation
+* Data organization
+* Reporting
+* Information systems
+* Data quality control
+
+### 💻 Data Entry & IT Assistant
+
+**Jabalia Municipality**
+
+`2021 — 2023`
+
+* Data entry
+* Information systems
+* Database support
+* Technical assistance
+* Administrative data processing
+
+### 🎓 Practical Training
+
+**Jabalia Municipality**
+
+`2023-04-01 → 2023-09-28`
+
+---
+
+# 📚 Training & Certifications
+
+* PHP Development
+* Web Programming
+* Website Design
+* Database Programming
+* Project Management
+* ICDL
+* Microsoft Excel
+* Data Management
+* Power BI
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌─────────────────────────────────────────┐
+│             CURRENT FOCUS               │
+├─────────────────────────────────────────┤
+│                                         │
+│  ⚡ Advanced JavaScript                  │
+│  🚀 Laravel Architecture                │
+│  🗄️ Advanced MySQL                      │
+│  📊 Power BI & Business Intelligence    │
+│  🔌 REST APIs                            │
+│  🔐 Web Security                         │
+│  🧠 Software Engineering                 │
+│  🤖 Intelligent Information Systems      │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajai-alwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajai-alwan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
 
 </div>
 
+<br>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rajai-alwan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajai-alwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies">
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajai-alwan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
+
+</div>
+
+---
+
+# 🌐 Professional Network
+
+<div align="center">
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/rajai-alwan">
+<img src="https://img.shields.io/badge/LinkedIn-Rajai_Alwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/rajai-alwan">
+<img src="https://img.shields.io/badge/GitHub-rajai--alwan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:rajai.kh12345@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### **"Don't just write code. Build solutions that matter."**
+
+<br>
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="90" alt="Developer">
+
+<br><br>
+
+**DATA · CODE · SYSTEMS · IMPACT**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something meaningful together.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2f81f7&height=120&section=footer" alt="Footer">
+
+</div>
